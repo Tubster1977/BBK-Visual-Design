@@ -54,6 +54,11 @@
 }
 
 @media (max-width: 1050px) {
+  .section-2 {
+    height: 20vh;
+    background-color: #fdefef;
+  }
+
   .section-2 h2 {
     font-size: 1rem;
   }
