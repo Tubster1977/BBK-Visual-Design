@@ -37,12 +37,14 @@
 }
 
 .section-2 {
-  height: 25vh;
+  height: 35vh;
   background-color: #fdefef;
 }
 
 .section-2 h2 {
   padding-top: 5rem;
+  margin-left: 5%;
+  margin-right: 5%;
   font-size: 2rem;
   font-weight: 900;
   color: #bd4b4b;
