@@ -54,6 +54,22 @@
   text-shadow: 0 0 0.1rem gray;
 }
 
+.comments {
+  height: 45vh;
+  background-color: #e8f6ef;
+}
+
+.comments p {
+  padding-top: 2rem;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 1.5rem;
+  color: #5c527f;
+  text-align: left;
+  letter-spacing: 0.05rem;
+  text-shadow: 0 0 0.1rem gray;
+}
+
 @media (max-width: 1050px) {
   .section-2 {
     height: 20vh;
@@ -61,6 +77,14 @@
   }
 
   .section-2 h2 {
+    font-size: 1rem;
+  }
+
+  .comments {
+    height: 40vh;
+  }
+
+  .comments p {
     font-size: 1rem;
   }
 }
